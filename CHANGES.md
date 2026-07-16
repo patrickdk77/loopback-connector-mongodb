@@ -1,3 +1,33 @@
+2026-07-16, Version 8.0.1
+=========================
+
+ * chore: update dependency loopback-connector to ^8.0.1 (renovate[bot])
+
+ * chore: update actions/setup-node action to v7 (renovate[bot])
+
+ * chore: lock file maintenance (renovate[bot])
+
+ * chore: update dependency commitlint to ^21.2.1 (renovate[bot])
+
+ * fix: #900 replace callback implementation by the promise one (Vincent Vandenschrick)
+
+ * chore: update commitlint monorepo to ^21.2.0 (renovate[bot])
+
+ * chore: update dependency bson to ^7.3.1 (renovate[bot])
+
+ * chore: update dependency node to v22.23.1 (renovate[bot])
+
+ * chore: update commitlint monorepo to ^21.1.0 (renovate[bot])
+
+ * chore: update actions/checkout action to v7 (renovate[bot])
+
+ * chore: update dependency semver to ^7.8.5 (renovate[bot])
+
+ * chore: update dependency bson to ^7.3.0 (renovate[bot])
+
+ * chore: update dependency node to v22.23.0 (renovate[bot])
+
+
 2026-06-10, Version 8.0.0
 =========================
 
